@@ -1,0 +1,6 @@
+print('Chao cac ban!')
+print('Hello World!')
+print('* * * *')
+print('*     *')
+print('*     *')
+print('* * * *')
